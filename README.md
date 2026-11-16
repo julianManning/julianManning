@@ -6,8 +6,8 @@ Remote sensing and geospatial data scientist (PhD, University of Tasmania) based
 
 - **[eo-overpass-predictor](https://github.com/julianManning/eo-overpass-predictor)** – swath-aware Landsat 8/9 and Sentinel-2 overpass prediction for any region of interest, with UTC and local-time CSV reports. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23629976.svg)](https://doi.org/10.5281/zenodo.23629976)
 - **[eo-overpass-qgis](https://github.com/julianManning/eo-overpass-qgis)** – the same engine as a QGIS plugin, approved in the [official QGIS Plugin Repository](https://plugins.qgis.org/plugins/eo_overpass/), with a live satellite tracker and printable field packs. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23884833.svg)](https://doi.org/10.5281/zenodo.23884833)
-- **[cdse-sentinel2-pipeline](https://github.com/julianManning/cdse-sentinel2-pipeline)** – multithreaded Sentinel-2 L1C/L2A downloads from the Copernicus Data Space Ecosystem, with cloud and ROI-coverage filtering.
-- **[cdse-sentinel1-pipeline](https://github.com/julianManning/cdse-sentinel1-pipeline)** – the Sentinel-1 SAR equivalent, with SAR-aware filtering and pass-level ROI coverage.
+- **[cdse-sentinel2-pipeline](https://github.com/julianManning/cdse-sentinel2-pipeline)** – multithreaded Sentinel-2 L1C/L2A downloads from the Copernicus Data Space Ecosystem, with cloud and ROI-coverage filtering. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23598342.svg)](https://doi.org/10.5281/zenodo.23598342)
+- **[cdse-sentinel1-pipeline](https://github.com/julianManning/cdse-sentinel1-pipeline)** – the Sentinel-1 SAR equivalent, with SAR-aware filtering and pass-level ROI coverage. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23595216.svg)](https://doi.org/10.5281/zenodo.23595216)
 
 ### 🔧 Focus areas
 
